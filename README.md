@@ -1,2 +1,2 @@
 # mysql_pdo_class
-php+mysql操作类
+2017-05-03 新增 php+mysql操作类
